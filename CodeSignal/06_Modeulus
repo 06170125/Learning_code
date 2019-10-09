@@ -1,0 +1,5 @@
+def modulus(n)    #定義係數n
+   if isinstance(n,int):    #n為一整數
+        return n%2    #回傳其除二之餘數
+   else:    #否
+        return -1    #則回傳-1
