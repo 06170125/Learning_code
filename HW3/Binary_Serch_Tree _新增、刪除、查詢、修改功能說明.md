@@ -27,6 +27,8 @@ Step.3
 
 
 
+![Search 搜尋](https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/S__4136965.jpg?raw=true)
+
  
 
 # ★ Insert 新增
@@ -46,6 +48,8 @@ Step.3
         
 Step.4  
 >一直比較直到沒東西可以比，那便是此要新增的數值該在的地方。
+
+![Insert 新增](https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/S__4136963.jpg?raw=true)
 
  
 
@@ -67,6 +71,8 @@ Step.4
 >從此節點僅有的左子樹中找出最大的點，然後替換上去  
 >從此節點僅有的右子樹中找出最小的點，然後替換上去
 
+![Delete](https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/S__4136966.jpg?raw=true)
+
 # ★修改
 
 對於程式來說，他是把a值替換成b值，因為a不見了，而b新增了。但對於我們來說，修改就是先刪除再新增，因為我們會覺得將a換成b的是意思是連位置也一樣，可是現實卻不是，否則數可能會違反規定，所以我們只需要執行前面定義的「刪除」「新增」函數即可。
@@ -76,6 +82,8 @@ Step.1
 
 Step.2
 >執行函數---新增
+
+![Modify 修改](https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/S__4136967.jpg?raw=true)
 
  
 
