@@ -1,6 +1,6 @@
 
 # Binary Search Tree 
-● Binary Search Trees：樹的節點最多只有兩個子節點,在整棵二元樹中的每一個節點都擁有不同值。 
+● Binary Search Trees：樹的節點最多只有兩個子節點。 
     • 根節點（Root）：沒有父節點的節點是根節點。
       •右子樹：父節點右邊的樹。
       •左子樹：父節點左邊的樹。
@@ -31,7 +31,7 @@ Step.3
 
 # ★ Insert 新增
 
-觀念類似於「搜尋」,也就是比較後插入。我們只需從根節點開始比較，如要插入的數大於root，就往右；反之往左，然後繼續比較直到找到字跡應該待的位置為止。
+觀念類似於「搜尋」,也就是比較後插入。我們只需從根節點開始比較，如要插入的數大於root，就往右；反之往左，然後繼續比較直到數值到達他應該待的位置為止。
 
 Step.1  
 >先與根節點root進行比較
@@ -67,6 +67,16 @@ Step.4
 >從此節點僅有的左子樹中找出最大的點，然後替換上去  
 >從此節點僅有的右子樹中找出最小的點，然後替換上去
 
+# ★修改
+
+對於程式來說，他是把a值替換成b值，因為a不見了，而b新增了。但對於我們來說，修改就是先刪除再新增，因為我們會覺得將a換成b的是意思是連位置也一樣，可是現實卻不是，否則數可能會違反規定，所以我們只需要執行前面定義的「刪除」「新增」函數即可。
+
+Step.1
+>執行函數---刪除
+
+Step.2
+>執行函數---新增
+
  
 
 # ●資料來源：
@@ -74,7 +84,9 @@ Step.4
 
 <https://en.wikipedia.org/wiki/Binary_search_tree>
 
-<https://courses.cs.washington.edu/courses/cse143/11wi/lectures/02-23/20-binary-search-tree.pdf>
+<https://web.stanford.edu/class/archive/cs/cs161/cs161.1168/lecture8.pdf？>
+
+<https://courses.cs.washington.edu/courses/cse143/11wi/lectures/02-23/20-binary-search-t？ree.pdf>
 
 <https://www.geeksforgeeks.org/deletion-binary-tree/> delete
 
