@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+# In[4]:
 
 
 class TreeNode(object):
@@ -42,6 +42,55 @@ class Solution(object):
                     return self.search(root.right,target)#回傳繼續比較
                 else: #其他
                     return None#回傳none
+    def delete(self,root,target):
+        while root.val and root == target: #如果欲查刪除值等於root
+            return root #直接回傳
+        
+        while root and root != target:#如果欲刪除值不等於root
+            root = None
+            while target <= root.val: #預查值小於等於root
+                root = root.left
+            while target > root.val:
+                root = root.right
+                
+        while root == None:
+            return root
+        while root.right == None and root.left == None:
+            root = None
+            if target<= None.val:
+                None.left = root
+            elif target > None.val:
+                None.right = root
+            return root
+        
+        while root.left != None:
+            if root.right == None:
+                if target < None.val:
+                    None.left = root.left
+                    return self.delete(root,target)
+        while root.right != None:
+            if root.left == None:
+                if target > None.val:
+                    None.right = root.right
+                    return self.delete(root,target)
+            root = self.min(root.right)
+            if target >None.val:
+                None.right = root
+        return root
+    def min(self,root):
+        while root.left:
+            return self. min(root.right)
+        while root.right:
+            return root
+    def __init__(self,x):
+        self.val = x
+        self.left = None
+        self.right = None
+        
+    def modify(self,root,target,new_val):
+        root = self.delete(root,target)
+        self.insert(root,new_val)
+        return root
 
 
 # # 參考資料
