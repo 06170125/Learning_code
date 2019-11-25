@@ -82,11 +82,6 @@ class Solution(object):
             return self. min(root.right)
         while root.right:
             return root
-    def __init__(self,x):
-        self.val = x
-        self.left = None
-        self.right = None
-        
     def modify(self,root,target,new_val):
         root = self.delete(root,target)
         self.insert(root,new_val)
