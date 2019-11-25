@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[4]:
+# In[ ]:
 
 
 class TreeNode(object):
@@ -9,6 +9,7 @@ class TreeNode(object):
         self.val = x
         self.left = None
         self.right = None
+
 class Solution(object):
     def insert(self, root, val): #root=3
         if root!= None: #如果root找得到
@@ -19,12 +20,13 @@ class Solution(object):
                     return TreeNode(val) #就加在右邊
             while val<=root.val: #<=root往左
                 if root.left != None: #如果左子樹存在
-                    return Solution().insert(root.left,val) #左子樹存在
+                    return Solution().insert(root.left,val) #回傳繼續比較
                 else: #左子樹不存在
                     return TreeNode(val) #就加在左邊
         else: #如果root找不到
-            return TreeNode(val)
+            root = TreeNode(val)
             return root
+        
     def search(self,root,target):
         while root.val == target: #如果欲查詢值等於root
             root.val=target
@@ -42,46 +44,57 @@ class Solution(object):
                     return self.search(root.right,target)#回傳繼續比較
                 else: #其他
                     return None#回傳none
+                
     def delete(self,root,target):
-        while root.val and root == target: #如果欲查刪除值等於root
+        top = None
+        node = root
+        
+        while node and node.val == target: #如果欲查刪除值等於root
             return root #直接回傳
         
-        while root and root != target:#如果欲刪除值不等於root
-            root = None
-            while target <= root.val: #預查值小於等於root
-                root = root.left
-            while target > root.val:
-                root = root.right
+        while node and node.val != target:#如果欲刪除值不等於target
+            top = node
+            if target < node.val: #預查值小於node
+                node = node.left #往左子樹走
+            elif target > node.val: #預查值小於node
+                node = node.right #往右子樹走
                 
-        while root == None:
-            return root
-        while root.right == None and root.left == None:
-            root = None
-            if target<= None.val:
-                None.left = root
-            elif target > None.val:
-                None.right = root
+        #↑到底為甚麼這邊不能用while!!!#
+                
+        while node == None: #如果node沒有直
+            return root #直接回傳
+        while node.right == None and node.left == None: #狀況一：沒有左右子樹
+            node = None #直接刪除
+            if target <= top.val:
+                top.left = node
+            elif target > top.val:
+                top.right = node
             return root
         
-        while root.left != None:
-            if root.right == None:
-                if target < None.val:
-                    None.left = root.left
-                    return self.delete(root,target)
-        while root.right != None:
-            if root.left == None:
-                if target > None.val:
-                    None.right = root.right
-                    return self.delete(root,target)
-            root = self.min(root.right)
-            if target >None.val:
-                None.right = root
-        return root
-    def min(self,root):
-        while root.left:
-            return self. min(root.right)
-        while root.right:
-            return root
+        while node.left != None and node.right == None: #狀況二：沒有右子樹
+            if target < top.val:
+                top.left = node.left
+                return self.delete(root,target)
+            else:
+                top.right=node.right
+                return self.delete(root,target)
+            
+        while node.right != None and node.left == None: #狀況三：沒有左子樹
+            if target > top.val:
+                top.right = node.right
+                return self.delete(root,target)
+            else:
+                top.left=node.left
+                return self.delete(root,target)
+ 
+        while node.left != None and node.right != None: #狀況四：有左右子樹
+            if target > top.val:
+                top.right = node.right
+                return self.delete(root,target)
+            else:
+                top.left=node.left
+                return self.delete(root,target)
+            
     def modify(self,root,target,new_val):
         root = self.delete(root,target)
         self.insert(root,new_val)
