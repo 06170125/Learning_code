@@ -72,3 +72,28 @@ class MyHashSet:
         else:
             return False   
 
+
+# # 參考資料
+
+# https://www.cs.wcupa.edu/rkline/ds/hash-sets.html
+# 
+# 
+# https://blog.kdchang.cc/2016/09/23/javascript-data-structure-algorithm-dictionary-hash-table/
+# 
+# 
+# https://docs.google.com/presentation/d/e/2PACX-1vT1HO9Nl475k2bR0l1x8_Tr4V5Wzx0BEqp9bpmHckvj8kTeJehhYVlOJUDVPhLQm6kjGCJ_sLMSBUw5/pub?start=false&loop=false&delayms=3000&slide=id.g790b8351ca_0_114
+# 
+# 
+# https://www.itread01.com/content/1541332933.html
+#     
+#     
+# https://medium.com/@fchern/%E8%A8%AD%E8%A8%88%E9%AB%98%E6%95%88%E8%83%BD%E7%9A%84hash-table-%E4%B8%80-303d9713abab
+#     
+# 
+# https://carlos-studio.com/2018/01/21/%E6%BC%94%E7%AE%97%E6%B3%95-%E9%9B%9C%E6%B9%8A%E8%A1%A8hash-table/
+
+# In[ ]:
+
+
+
+
