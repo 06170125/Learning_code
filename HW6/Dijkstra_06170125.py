@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[7]:
+# In[39]:
 
 
 from collections import defaultdict
@@ -15,9 +15,10 @@ class Graph():
         self.roots = {}
     
     def addEdge(self,u,v,w): 
-        while self.array == None:
+        if self.array == None:
             self.array.append([u,v,w])
-        while self.array != None:
+            
+        else:
             a = True
             for i in range(len(self.array)):
                 if self.array[i][2] > w:
@@ -40,19 +41,21 @@ class Graph():
         little = min(point[0],point[1])
         big = max(point[0],point[1])
 
-        if self.roots[big] == None and self.roots[little] == None: self.roots[big] , self.roots[little] = little , little
+        if self.roots[big] == None and self.roots[little] == None:
+            self.roots[big] , self.roots[little] = little , little
             
 
-        elif self.roots[big] == None and self.roots[little] != None: self.roots[big] = self.roots[little]
+        elif self.roots[big] == None and self.roots[little] != None:
+            self.roots[big] = self.roots[little]
                       
 
         else:
             for i in range(self.V):
-                if i != large and self.roots[i] == self.roots[large]:
-                    self.roots[i] = small
-            self.roots[large] , self.roots[small] = small , small
+                if i != big and self.roots[i] == self.roots[big]:
+                    self.roots[i] = little
+            self.roots[big] , self.roots[little] = little , little
 
-        final[str(str(pivot[0])+"-"+str(pivot[1]))] = pivot[2]
+        end[str(str(point[0])+"-"+str(point[1]))] = point[2]
 
         if len(end) != self.V-1: self.Kruskal_helper(end)
             
@@ -63,7 +66,7 @@ class Graph():
         for j in range(self.V): 
             self.roots[j] = None
         end = {}
-        return self.Krustal_helper(end)
+        return self.Kruskal_helper(end)
     
     def Dijkstra(self, s):
         seen = [s]
