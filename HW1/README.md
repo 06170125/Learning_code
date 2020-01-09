@@ -1,4 +1,4 @@
-# Quick Sort
+# ★Quick Sort
 
 >快速排序法是排序演算法的一種
 >
