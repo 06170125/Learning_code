@@ -19,15 +19,9 @@ I hope I can do my best to do it.
 
 ><img width="15" height="15" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E8%97%8D%E7%AE%AD%E9%A0%AD.png?raw=true"/>About Linked List
 >>
->>Linked list(連結串列)是一種常見的資料結構
+>>Linked list(連結串列)是一種常見的資料結構，其使用node(節點)來記錄、表示、儲存資料(data)
 >>
->>其使用node(節點)來記錄、表示、儲存資料(data)
->>
->>並利用每個node中的pointer指向下一個node
->>
->>藉此將多個node串連起來
->>
->>形成Linked list，並以NULL來代表Linked list的終點
+>>並利用每個node中的pointer指向下一個node，藉此將多個node串連起來形成Linked list，並以NULL來代表Linked list的終點
 >>
 
 ><img width="15" height="15" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E8%97%8D%E7%AE%AD%E9%A0%AD.png?raw=true"/>[My Linked List](http://notepad.yehyeh.net/Content/DS/CH04/3.php)
