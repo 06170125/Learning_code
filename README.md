@@ -6,6 +6,7 @@ This is the way for me to learning how to write the code.
 
 I hope I can do my best to do it.
 
+# <img width="40" height="40" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E5%BD%A9%E8%99%B9.png?raw=true"/> 資料結構演算法 Learning_code資料結構演算法
 --------
 ### <img width="30" height="30" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E4%BA%AE%E6%99%B6%E6%99%B6.png?raw=true"/> Week_1 09/13
 
