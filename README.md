@@ -21,5 +21,3 @@ HI I am ying_chun, This is the way for me to learning how to write the code. I h
 >Merge Sort
 >>*把資料“分割”成兩部分再各自進行Merge Sort，最後將兩部分在整合起來
 >
->
-[abc](https://www.youtube.com/watch?v=TZRWRjq2CAg)
