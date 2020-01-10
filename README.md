@@ -313,3 +313,31 @@ src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7
 
 # <img width="40" height="40" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E5%BD%A9%E8%99%B9.png?raw=true"/> 資料結構演算法自主練習
 --------
+### <img width="30" height="30" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E4%BA%AE%E6%99%B6%E6%99%B6.png?raw=true"/> LeetCode
+
+><img width="15" height="15" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E8%97%8D%E7%AE%AD%E9%A0%AD.png?raw=true"/>[01#Two Sum](https://github.com/06170125/Learning_code/blob/master/LeetCode/01%23Two%20Sum_06170125.py)
+>
+><img width="15" height="15" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E8%97%8D%E7%AE%AD%E9%A0%AD.png?raw=true"/>[21#Merge Two Sorted Lists](https://github.com/06170125/Learning_code/blob/master/LeetCode/21%23Merge%20Two%20Sorted%20Lists_06170125.py)
+>
+><img width="15" height="15" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E8%97%8D%E7%AE%AD%E9%A0%AD.png?raw=true"/>[27#Remove Element](https://github.com/06170125/Learning_code/blob/master/LeetCode/27%23Remove%20Element_06170125.py)
+>
+><img width="15" height="15" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E8%97%8D%E7%AE%AD%E9%A0%AD.png?raw=true"/>[43#Multiply Strings](https://github.com/06170125/Learning_code/blob/master/LeetCode/953%23Verifying%20an%20Alien%20Dictionary_06170125.py)
+>
+><img width="15" height="15" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E8%97%8D%E7%AE%AD%E9%A0%AD.png?raw=true"/>[953#Verifying an Alien Dictionary](https://github.com/06170125/Learning_code/blob/master/LeetCode/953%23Verifying%20an%20Alien%20Dictionary_06170125.py)
+
+### <img width="30" height="30" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E4%BA%AE%E6%99%B6%E6%99%B6.png?raw=true"/> CodeSignal
+
+><img width="15" height="15" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E8%97%8D%E7%AE%AD%E9%A0%AD.png?raw=true"/>[About Count_Bits](https://github.com/06170125/Learning_code/blob/master/CodeSignal/05_Count_Bits)
+>
+><img width="15" height="15" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E8%97%8D%E7%AE%AD%E9%A0%AD.png?raw=true"/>[About Modeulus](https://github.com/06170125/Learning_code/blob/master/CodeSignal/06_Modeulus)
+>
+><img width="15" height="15" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E8%97%8D%E7%AE%AD%E9%A0%AD.png?raw=true"/>[About Simple_Sort](https://github.com/06170125/Learning_code/blob/master/CodeSignal/07_Simple_Sort)
+>
+><img width="15" height="15" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E8%97%8D%E7%AE%AD%E9%A0%AD.png?raw=true"/>[About Base_Conversion](https://github.com/06170125/Learning_code/blob/master/CodeSignal/08_Base_Conversion)
+>
+><img width="15" height="15" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E8%97%8D%E7%AE%AD%E9%A0%AD.png?raw=true"/>[About Mex_Function](https://github.com/06170125/Learning_code/blob/master/CodeSignal/09_Mex_Function)
+>
+><img width="15" height="15" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E8%97%8D%E7%AE%AD%E9%A0%AD.png?raw=true"/>[About List_Beautifier](https://github.com/06170125/Learning_code/blob/master/CodeSignal/10_List_Beautifier)
+
+### <img width="30" height="30" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E4%BA%AE%E6%99%B6%E6%99%B6.png?raw=true"/> Machine Learning
+
