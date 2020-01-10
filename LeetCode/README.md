@@ -4,7 +4,7 @@
 >
 # <img width="30" height="30" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E6%84%9B%E5%BF%83.png?raw=true"/> About Leetcode
 >
-><img width="15" height="15" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E4%BA%AE%E6%99%B6%E6%99%B6.png?raw=true"/> 一開始使用Leetcode的時候，寫程式的自信心完全掉光...寫程式的自信心完全掉光...那時候超級厭世，因為池間常常超過，所以大部分我都上網查QAQ。
+><img width="15" height="15" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E4%BA%AE%E6%99%B6%E6%99%B6.png?raw=true"/> 一開始使用Leetcode的時候，寫程式的自信心完全掉光...寫程式的自信心完全掉光...那時候超級厭世，因為時間常常超過，所以大部分我都上網查QAQ。
 >
 ><img width="15" height="15" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E8%97%8D%E7%AE%AD%E9%A0%AD.png?raw=true"/>[01#Two Sum](https://github.com/06170125/Learning_code/blob/master/LeetCode/01%23Two%20Sum_06170125.py)
 >
