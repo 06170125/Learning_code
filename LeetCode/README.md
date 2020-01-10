@@ -13,7 +13,8 @@
 ><img width="15" height="15" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E8%97%8D%E7%AE%AD%E9%A0%AD.png?raw=true"/>[27#Remove Element](https://github.com/06170125/Learning_code/blob/master/LeetCode/27%23Remove%20Element_06170125.py)
 >
 ><img width="15" height="15" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E8%97%8D%E7%AE%AD%E9%A0%AD.png?raw=true"/>[43#Multiply Strings](https://github.com/06170125/Learning_code/blob/master/LeetCode/953%23Verifying%20an%20Alien%20Dictionary_06170125.py)
-
+>
+><img width="15" height="15" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E8%97%8D%E7%AE%AD%E9%A0%AD.png?raw=true"/>[953#Verifying an Alien Dictionary](https://github.com/06170125/Learning_code/blob/master/LeetCode/953%23Verifying%20an%20Alien%20Dictionary_06170125.py)
 >
 ><img width="15" height="15" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E4%BA%AE%E6%99%B6%E6%99%B6.png?raw=true"/>因為我其實刷很多題，但是因為時間關係，以後有空再慢慢放上來
 >
