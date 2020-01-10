@@ -341,3 +341,7 @@ src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7
 
 ### <img width="30" height="30" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E4%BA%AE%E6%99%B6%E6%99%B6.png?raw=true"/> Machine Learning
 ><img width="15" height="15" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E8%97%8D%E7%AE%AD%E9%A0%AD.png?raw=true"/>[About Machine Learning](https://github.com/06170125/Learning_code/tree/master/Machine%20Learning)
+
+# <img width="40" height="40" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E5%BD%A9%E8%99%B9.png?raw=true"/> 資料結構演算法期末心得
+--------
+### <img width="30" height="30" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E4%BA%AE%E6%99%B6%E6%99%B6.png?raw=true"/> 我對這一科只有一個字「累」。但是這堂課讓我從一開始的E排小廢物，成功爬到C排普通廢物了!!!!!!這學期還很智障先修了大四必修《機器學習導論》有時候真心很想掐死選課時的自己...蔡教授的課真的很考驗自學的能力以及大腦的運作力QxQ
