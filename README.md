@@ -59,7 +59,7 @@ src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7
 >>
 >>◆平均時間複雜度O(n^2)
 >>
->>通過構建有序序列，對於未排序資料，在已排序序列中從後向前掃描，找到相應位置並插入
+>>◆通過構建有序序列，對於未排序資料，在已排序序列中從後向前掃描，找到相應位置並插入
 >
 ><img width="15" height="15" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E8%97%8D%E7%AE%AD%E9%A0%AD.png?raw=true"/> [My Insertion Sort](https://docs.google.com/presentation/d/e/2PACX-1vQOTMDM-5-OUaGfnLUOFVgefFwSVRplSwnbicp0CXOQrB5H8RM_1Aq8o_4JxHlncEmhjvqk3tzcoB7s/pub?start=false&loop=false&delayms=3000&slide=id.p)
 >
