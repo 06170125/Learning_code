@@ -1,4 +1,4 @@
-# <img width="40" height="40" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E6%84%9B%E5%BF%83.png?raw=true"/> 資料結構演算法 Learning_code
+# <img width="50" height="50" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E6%84%9B%E5%BF%83.png?raw=true"/> 資料結構演算法 Learning_code
 
 HI I am ying_chun~
 
@@ -6,7 +6,7 @@ This is the way for me to learning how to write the code.
 
 I hope I can do my best to do it.
 
-# <img width="40" height="40" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E5%BD%A9%E8%99%B9.png?raw=true"/> 資料結構演算法 Learning_code資料結構演算法
+# <img width="40" height="40" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E5%BD%A9%E8%99%B9.png?raw=true"/> 資料結構演算法每週記事
 --------
 ### <img width="30" height="30" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E4%BA%AE%E6%99%B6%E6%99%B6.png?raw=true"/> Week_1 09/13
 
@@ -253,3 +253,18 @@ src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7
  ### <img width="30" height="30" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E4%BA%AE%E6%99%B6%E6%99%B6.png?raw=true"/> Week_18 1/10
 
 ><img width="15" height="15" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E8%97%8D%E7%AE%AD%E9%A0%AD.png?raw=true"/> 快樂放寒假
+
+# <img width="40" height="40" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E5%BD%A9%E8%99%B9.png?raw=true"/> 資料結構演算法每次作業
+--------
+### <img width="30" height="30" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E4%BA%AE%E6%99%B6%E6%99%B6.png?raw=true"/> HW1
+
+><img width="15" height="15" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E8%97%8D%E7%AE%AD%E9%A0%AD.png?raw=true"/> [Quick Sort 程式碼](https://github.com/06170125/Learning_code/blob/master/HW1/QuickSort.ipynb)
+><img width="15" height="15" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E8%97%8D%E7%AE%AD%E9%A0%AD.png?raw=true"/> [Quick Sort 流程圖](https://github.com/06170125/Learning_code/blob/master/HW1/quicksort%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B.ipynb)
+
+### <img width="30" height="30" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E4%BA%AE%E6%99%B6%E6%99%B6.png?raw=true"/> HW2
+
+><img width="15" height="15" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E8%97%8D%E7%AE%AD%E9%A0%AD.png?raw=true"/> [Merge Sort 程式碼](https://github.com/06170125/Learning_code/blob/master/HW2/merge_sort_06170125.py)
+><img width="15" height="15" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E8%97%8D%E7%AE%AD%E9%A0%AD.png?raw=true"/> [Merge Sort 流程圖](https://github.com/06170125/Learning_code/blob/master/HW2/mergesort_%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%2B%E6%B5%81%E7%A8%8B%E5%9C%96%2B%E6%96%87%E5%AD%97%E8%AA%AA%E6%98%8E.ipynb)
+><img width="15" height="15" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E8%97%8D%E7%AE%AD%E9%A0%AD.png?raw=true"/> [Heap Sort 程式碼](https://github.com/06170125/Learning_code/blob/master/HW2/heap_sort_06170125.py)
+><img width="15" height="15" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E8%97%8D%E7%AE%AD%E9%A0%AD.png?raw=true"/> [Heap Sort 流程圖](https://github.com/06170125/Learning_code/blob/master/HW2/heap_sort%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%2B%E6%B5%81%E7%A8%8B%E5%9C%96%2B%E6%96%87%E5%AD%97%E8%AA%AA%E6%98%8E.ipynb)
+><img width="15" height="15" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E8%97%8D%E7%AE%AD%E9%A0%AD.png?raw=true"/> [Heap Sort v.s. Merge Sort](https://github.com/06170125/Learning_code/blob/master/HW2/merge%26heap%E6%AF%94%E8%BC%83.py)
