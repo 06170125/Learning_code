@@ -73,7 +73,7 @@ src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7
 >>
 >>◆平均時間複雜度:O(n log n)
 >>
->>從數列中挑出一個元素，稱為「基準」,有比基準值小的元素擺放在基準前面，所有比基準值大的元素擺在基準後面,遞迴地將小於基準值元素的子序列和大於基準值元素的子序列排序
+>>◆從數列中挑出一個元素，稱為「基準」,有比基準值小的元素擺放在基準前面，所有比基準值大的元素擺在基準後面,遞迴地將小於基準值元素的子序列和大於基準值元素的子序列排序
 >
 ><img width="15" height="15" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E8%97%8D%E7%AE%AD%E9%A0%AD.png?raw=true"/> [My QuickSort](https://nbviewer.jupyter.org/github/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E7%AC%AC%E5%9B%9B%E9%80%B1/QuickSort%E5%9C%96%E8%A7%A3.pdf)
 >
