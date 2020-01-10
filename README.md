@@ -1,4 +1,4 @@
-# <img width="50" height="50" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E7%AC%AC%E4%B8%80.png?raw=true"/> 資料結構演算法 Learning_code
+# <img width="40" height="40" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E6%84%9B%E5%BF%83.png?raw=true"/> 資料結構演算法 Learning_code
 
 HI I am ying_chun~
 
@@ -9,6 +9,9 @@ I hope I can do my best to do it.
 --------
 ### <img width="30" height="30" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E4%BA%AE%E6%99%B6%E6%99%B6.png?raw=true"/> Week_1
 
+>課程介紹
+>
+>計分規則
 ### <img width="30" height="30" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E4%BA%AE%E6%99%B6%E6%99%B6.png?raw=true"/> Week_2
 
 ### <img width="30" height="30" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E4%BA%AE%E6%99%B6%E6%99%B6.png?raw=true"/> Week_3
